@@ -1,12 +1,12 @@
 # Site settings
-title: Translational lymphoma research in the Morin laboratory at Simon Fraser University
+title: Schizophrenia research under 
 lab_name: TR Lab
 author: >
   Dr. Sherry Chan
 institution: HKU
 email: kwsherry@hku.hk
 description: >
-  The TR Lab at the University of Hong Kong examines treatment-resistant schizophrenia and first episodes of psychosis. 
+  The TR Lab at the University of Hong Kong examines treatment-resistant schizophrenia recovery and social cognition. 
 baseurl: ""
 url: "https://TRLabWebsite.github.io"
 github_username:  morinlab
